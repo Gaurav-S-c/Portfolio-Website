@@ -298,7 +298,7 @@
     background: linear-gradient(230deg, oklch(53.2% 0.2604 262.965),oklch(60.885% 0.27133 305.866));
     position:absolute;
     transition: transform 0.2s ease;
-    box-shadow:0 0 1000px oklch(57.102% 0.23358 262.785);
+    box-shadow:0 0 1000px oklch(60.15% 0.21614 262.896);
 }
 .image-border:hover{
     transform:scale(1.05);
